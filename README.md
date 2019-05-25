@@ -8,3 +8,7 @@ https://github.com/amix/vimrc
 ## Theme
 My current go-to theme is Panda which can be found here:
 https://github.com/PandaTheme
+
+## Steps to setup
+Copy the my_configs.vim file to ~/.vim_runtime/
+Copy the macOS/.bash_profile to ~/
